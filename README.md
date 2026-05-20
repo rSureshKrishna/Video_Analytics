@@ -45,8 +45,7 @@ project/
 │
 ├── main.py
 ├── requirements.txt
-├── README.md
-└── yolov8n.pt
+└── README.md
 
 Installation
 1. Clone the Repository
